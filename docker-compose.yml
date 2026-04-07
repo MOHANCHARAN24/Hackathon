@@ -1,0 +1,29 @@
+services:
+  backend:
+    build:
+      context: ./backend
+    env_file:
+      - ./backend/.env
+    environment:
+      DOCS_PATH: /app/docs
+      CHROMA_PERSIST_PATH: /app/vectorstore
+      SQLITE_DB_PATH: /app/data/feedback.db
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/docs:/app/docs
+      - ./backend/vectorstore:/app/vectorstore
+      - backend_data:/app/data
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        VITE_API_URL: http://localhost:8000
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend_data:

@@ -1,0 +1,20 @@
+CampusAI Sample Knowledge Base
+
+Admissions:
+- B.Tech eligibility requires completion of 10+2 with Physics, Chemistry, and Mathematics.
+- Required documents include marksheets, transfer certificate, ID proof, passport-size photos, and entrance exam scorecard.
+
+Academics:
+- A semester requires 20 credits for full-time registration.
+- Elective registration opens in the first two weeks of each semester through the academic portal.
+
+Financial:
+- Semester fee payment deadline is 30 days from semester start.
+- Merit scholarships are available for top-performing students.
+
+Campus:
+- The central library is located near the main academic block.
+- Hostel quiet hours are from 10:00 PM to 6:00 AM.
+
+Support:
+- Students can book counseling through the student support office or the online portal.

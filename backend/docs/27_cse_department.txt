@@ -1,0 +1,512 @@
+SOURCE URL: https://vignan.ac.in/newvignan/departments/depthome.php?deptid=sch3_dept1&school=sch3&deptnm=CSE
+
+Department Home
+Title Page
+విజ్ఞాన శాస్త్ర సాంకేతిక పరిశోధనా సంస్థ / विज्ञान शास्त्र प्रौद्योगिकी और परिशोधन संगठन
+International Students
+New Student
+Parent
+Alumni
+Admissions
+Quick links
+Home
+Research
+Academics
+Board of Studies
+E-Content
+People
+Faculty
+Students
+Committees
+Events
+Facilities
+Convocation
+Contact Us
+Apply Now
+HYD Campus
+Webmail
+NBA Recognition
+View Document (2020-23)
+View Document (2023-26)
+View Document (2026-28)
+Design, Develop, Innovate
+The Department of
+is accredited by
+ABET
+for six years (2024-2030) and by the
+National Board of Accreditation (NBA)
+for two cycles (2020-2023 and 2023-2026). The department is fertile with several developments, enriched with all the good practices of academia.
+It hosts the following three programs:
+B.Tech. in Computer Science and Engineering
+M.Tech. in Computer Science and Engineering
+Ph.D. in Computer Science and Engineering
+Skill and knowledge are born with qualification and experience. They are tempered by motivation and empathy and are conspicuous in the
+CSE faculty
+, which scales the department into a distinct class. The faculty's holistic academic and research experience directly impacts the production of
+well-rounded, industry-ready students
+with the necessary skills and the desired attitude.
+CSE students
+are habituated to participating in
+Coding Hackathons
+on various platforms, including
+CodeChef
+HackerRank
+, etc. The department's placement record is impressively progressive, with
+87% in 2022-23
+92% in 2023-24
+, maintaining an average placement of
+. Top MNCs and high-profile companies at the national level, such as
+TCS, Accenture, HCL, Deloitte, IBM, Amazon, Darwin Box, L&T Technology Services, Cognizant,
+and many more, have been our recruiting partners.
+Over
+250+ research publications
+in the thrust areas of
+Computing
+, including
+Artificial Intelligence, Computer Vision, Machine Learning,
+and others, have been indexed by
+Scopus, SCI/E
+in the last five years. More than
+80+ Ph.D. Scholars
+are registered in the Ph.D. program, and over
+20+ Ph.D.s have been awarded
+in the last three years.
+Every year,
+10% of students
+undergo higher education at globally recognized institutions, including
+IIT Bombay, IIT Hyderabad, Massachusetts Institute of Technology, Cornell University,
+and the
+University of Washington.
+The department aims to create an intense teaching and research environment that transforms students into
+innovative, responsible, ethical, and technologically adept individuals.
+Read More
+Vision & Mission
+HoD Message
+Programs Offered
+Under Graduate
+B.Tech in Computer Science and Engineering
+Course details
+Apply
+Post Graduate
+M.Tech in Computer Science and Engineering
+Ph.D
+NEWS
+06-Mar-2026
+Distribution of Exam Pads, Pens, and Pencils to 10th Class Students
+The NSS team from the Department of CSE distributed exam pads, pens, and pencils to the 10th class students of Vijendla Government School to support them in their upcoming board examinations. The initiative was conducted to encourage the students and assist them in their exam preparation. The students received the materials with happiness, and the event was completed successfully.
+View all news
+30-Jan-2026
+Conclave on Responsible & Sustainable AI
+The Department of CSE is going to organize a Conclave on Responsible & Sustainable AI with the motto of "Building Better with AI: Sustainability as a Blueprint for India".
+19-Nov-2025
+CSE CHRONICLE- Department Magazine Release
+The Department of CSE successfully released the issue-02 of CSE CHRONICLE, the department magazine, on 19th November by Dean, SoCI, and the HoD, CSE.
+15-Nov-2025
+Stack Hack 2025 - Application Development Hackathon
+The Department of CSE, Vignanâ€™s Foundation for Science, Technology & Research (VFSTR), conducted â€œStack Hackâ€, a 72-hour Application Development Hackathon from 06 to 08 November 2025. The event aimed to strengthen studentsâ€™ real-world development skills by guiding them through end-to-end product building under time constraints. Participants worked in teams to plan, design, develop, test, and present working application prototypes, focusing on practical problem-solving, clean implementation, and effective presentation. The hackathon encouraged creativity, collaboration, and rapid debugging, while giving students hands-on exposure to modern application development workflows.
+01-Sep-2025
+Second International Conference on Networks and Soft Computing (ICNSoC-2025)
+The Second International Conference on Networks and Soft Computing (ICNSoC-2025) will be held from 12 â€“ 14 June 2025 at Vignanâ€™s Foundation for Science, Technology & Research (VFSTR), Guntur, India. The conference aims to bring together researchers, academicians, and industry professionals to exchange insights and explore emerging trends in computer science and engineering. Areas of interest include networks, wireless and ad-hoc sensor systems, soft computing, machine learning, computer vision, image processing, NLP, deep learning, artificial intelligence, and the Internet of Things. The event will feature keynote addresses, invited talks, technical sessions, and networking opportunities for knowledge exchange and collaboration.
+09-Dec-2024
+One Week Winter School: High-Performance Computing (HPC-2024)
+The Department of CSE organized a one-week winter school on "High-Performance Computing (HPC-2024)" from December 9 to December 13, 2024. The program featured expert sessions by Dr. Sonal Yadav (NIT Raipur), Dr. Vijay Holimath (VividSparks), Mr. Kiran Kumar Kandula, and Dr. Kaushik Mishra (Manipal Institute of Technology), focusing on parallel programming, GPU computing, and big data frameworks. Participants gained hands-on experience in HPC applications and research opportunities.
+28-Oct-2024
+STACKHACK - Application Development Hackathon
+The Department of CSE, in collaboration with byteXL and ACM, hosted a 48-hour hackathon, "STACKHACK - Application Development Hackathon", on October 28 and 29, 2024, at the NTR Vignan Library, 2nd Floor. Coordinated by Dr. T.R. Rajesh, Mr. P. Vijaya Babu, Mrs. M. Bhargavi, Mr. K. Kiran Kumar, and Mr. Ch. Ravi Kishore Reddy, the event saw teams showcase their skills in application development, with Team Brain Storm Troopers winning first place, followed by Team Spark and Team Web Masters.
+05-Oct-2024
+Career Compass: Your Guide to Success and Acing Interviews
+The Department of CSE organized a Guest Lecture on "Career Compass: Your Guide to Success and Acing Interviews" on October 5, 2024, delivered by Ms. Prardhana Yadla, HR Business Partner at TCS Hyderabad. The session focused on career planning, interview strategies, and professional growth, providing students with valuable insights and practical tips to excel in their careers and navigate the job market successfully.
+28-Sep-2024
+Exploring Tomorrow's Automation: Wisdom from a Leading Industry Authority
+A guest lecture on "Exploring Tomorrow's Automation: Wisdom from a Leading Industry Authority" was conducted on September 28, 2024, by Ms. Y. Pramathi, an alumna and Senior Developer at TCS Hyderabad. The session emphasized PEGA development, automation technologies, and their future implications, inspiring students to explore industry-relevant innovations.
+19-Sep-2024
+Ecliptic Curve Cryptography
+A guest lecture on "Ecliptic Curve Cryptography: Status, Challenges, and Applications" was held under the aegis of the Department of CSE on September 19th, 2024. The session aimed at IV Year B.Tech. and I M.Tech. students was delivered by Dr. Anil Pinapati, Assistant Professor from NIT Calicut.
+14-Sep-2024
+Future of AI/ML Foundations, Trends and Research Challenges.
+These days, the most talked about topic in technology is Artificial Intelligence and Machine Learning. Since the domains claim a major shift in the paradigm, the concerns raised about the trends and research challenges should be answered. On 14th September, 2024, the School of Computing and Informatics broadcasted a webinar discussing the impact of AI/ML in the days to come. The session was led by Dr. Sanjay Kumar Sonbhadra, Assistant Professor at ITER, SOA, Bhubaneswar.
+Research colloquium.
+As per the Office of the Dean R&D, the Department of CSE organised a Research Colloquium for the internal scholars on 14th September, 2024. The colloquium aims to strengthen the research culture in the department and stimulate the spirit of research in the scholars.
+19-Jul-2024
+Generative AI
+The Department of CSE hosted a guest lecture on "Generative AI: Status, Challenges, and Future Directions" on July 19th, 2024. The event featured experts from Google and L4G, who shared insights on AI's role in industry, marketing, and workforce development.
+01-Jan-2023
+Software Engineering, Real Life Industry Expectations
+Industry Relations Cell, VFSTR had the honour to host Mr. Balamurugan Ramasamy, Executive Vice-President, HCL Technologies, for an insightful session on Software Engineering and Industry expectations. Mr. Balamurugan compared the true blue student life and learning with that of the real time expectations in industry. Students and faculty of department of CSE discussed the evolving tech landscape and how to stay ahead in the fast-paced industry.
+Notebook Donation Drive
+Close to thousand notebooks were distributed to the underprivileged students of four government schools in the Notebook Donation Drive organised by NSS. The schools in the vicinity of VFSTRU appreciated the discharge of social responsibility on the part of VFSTRU. The event was supervised by the NSS coordinator and BoSA Team.
+Generative Artificial Intelligence
+Guest Lecture on Generative Artificial Intelligence in Vignan's University.
+NOTIFICATIONS
+29th January 26
+Karthika Vana Samaradhana A FESTIVE GATHERINGG
+5th November 25
+Stack Hack Application Development Hackathon
+ONLINE FACULTY DEVELOPMENT PROGRAMME (FDP) ON Deep learning for Computer Vision: From Theory to Practice
+20th March 25
+View All
+What You’ll learn
+The Department emphasizes on coding, design & architecture, and growing professional skills. Practicing problem-solving techniques, exploring user interface (UI) and user experience (UX) design and also students will learn ethical standards, time management, and leadership skills, making them well-rounded professionals capable of thriving in industry environments.
+Coding Skills like Python, Java, and C++ ,data structures and algorithms.
+Design and architecture skills are equally emphasized, focusing on creating efficient, scalable software.
+Professional skills play a crucial role in preparing students for real-world challenges.
+Dr. K.V.Krishna Kishore
+Dean
+School of Computing and Informatics
+Teaching Learning Process
+The Department employs a variety of teaching-learning methodologies, including lectures, coding workshops, project-based learning, hackathons, and hands-on laboratory sessions, to accommodate different learning styles. These approaches ensure that students gain strong theoretical knowledge, develop practical problem-solving skills, and foster innovation in computing technologies.
+Project-based learning
+Career Paths After Graduation
+Our graduates enjoy diverse career paths, with around 90% securing placements in top companies and government sectors, thanks to a strong curriculum and industry partnerships. Approximately 8% pursue higher education at prestigious institutions, supported by a research-driven academic environment and exams like GATE, GRE, and GMAT. We also encourage entrepreneurship, providing resources to help students launch successful ventures. This comprehensive approach ensures our graduates are well-prepared for both professional and academic success.
+Join a Company
+Our graduates consistently secure placements in top companies and government sectors, with an impressive average placement rate of around 90% over recent years. We prepare students for dynamic careers through a robust curriculum and strong industry partnerships, ensuring they have the skills and knowledge needed to thrive in today’s competitive job market.
+Go For Higher Education
+A Number of our graduates pursue higher studies, gaining admission to prestigious institutions both in India and abroad. Around 8% of our students opt for advanced studies through exams such as GATE, GRE, and GMAT. Our academic environment fosters a research-driven approach, encouraging students to excel in higher education and contribute to innovative research fields.
+Choose Academia and Research
+A portion of our graduates engage in academia and research, making significant contributions to advancements in computing and technology.
+Become Entrepreneurs & Consults
+While the majority of our students enter the workforce or pursue higher education, we also support aspiring entrepreneurs. Through various initiatives and resources, we provide the necessary tools for students to turn their ideas into successful ventures. Our focus on innovation helps foster an entrepreneurial mindset among our graduates, enabling them to launch and grow their own businesses.
+Performance and Placement Statistics
+Student academic performance has shown a consistent upward trend, increasing from
+93.26%
+in 2020-21 to
+95.41%
+in 2022-23, reflecting the department’s commitment to academic excellence.
+The placement rate has significantly improved, rising from
+80.46%
+91.58%
+in 2022-23, showcasing strong industry collaborations and a focus on career-oriented training. .
+Explore Facilities to Support you
+The department offers a comprehensive range of state-of-the-art facilities, providing an optimal environment for academic research, personal growth, and career development. Our infrastructure includes over 30 smart lecture halls, a rich department library, and cutting-edge labs for hands-on experience in various computing disciplines. With over 850 computers and specialized labs for various computing disciplines, students are prepared to tackle real-world engineering challenges.
+Explore All
+A Journey of Insights and Discoveries
+YEAR 1: Establishing Computing fundamentals
+The foundations of engineering will be laid through basic sciences and engineering courses such as engineering mathematics, physics, engineering drawing, engineering electronics and electrical engineering, and graphics, among others.
+YEAR 2: Broadening Computing Perspectives
+Fundamental subjects for a career in software, such as Database Systems, Design and Analysis of Algorithms, Web Technologies, etc., will also be thoroughly covered.
+YEAR 3: Gain Expertize in specific domain
+All students will, nevertheless, work on developing an end to end web/ mobile/ embedded applications. Additionally, the choice to start a research endeavor in an emerging computing domain.
+YEAR 4: Developing Innovative Ideas
+By concentrating on courses like Big Data Analytics, Deep Learning, Internet of Things, Cloud Computing, and High Performance Computing, among others you will build an end-to-end society centric or industry related application.
+Alumni Hall of Fame
+The Department takes pride in its vibrant alumni network, which spans across diverse industries and top global organizations. Our alumni have distinguished themselves as leaders, innovators, and entrepreneurs, contributing significantly to advancements in technology and society. They continue to engage with the department through mentorship, guest lectures, and collaborative projects, fostering a strong connection between current students and the professional world. The success of our alumni is a testament to the quality education and holistic development provided by the department.
+Explore More
+Avinash Raman,Talent Discovery Partner, SAP Labs
+Bhavya Vattikuti, IRMS(Indian Railways Management Service), Civils-2022
+What People Say
+The curriculum has greatly enhanced my child's intellectual aptitude, and the focus on technical skills has prepared them well for the IT industry.
+Siva Rama Krishna
+Vignan helped me to make myself a better person in both personal life and professional life. I got placed with two companies, one is TCS digital, and another one is EPAM system with 12 LPA.
+Vamsi Krishna
+Student
+The course curriculum is of a global standard, and it ensures my child's competency is on par with students from other prestigious universities.
+L. Brahma Reddy
+Frequently Asked Questions
+1. How can I apply to the Computer Science program?
+Applications are typically submitted online through the university's admission portal. Required documents usually include Class 12th mark sheets, entrance exam scores (such as JEE Main/Advanced for undergraduate programs), and personal statements. Specific details are available on the university's admissions page.
+2. What are the admission requirements for the Computer Science department?
+Students must have completed the Higher Secondary Examination (12th grade) with at least 60% in Physics, Chemistry, and Mathematics. For undergraduate programs, a good score in entrance exams like JEE Main/Advanced or state-level CETs is essential. For postgraduate programs, exams like GATE may be required.
+3. Is there any scholarship available for students?
+Yes, 25% of seats in each department are reserved for scholarships, based on merit and availability. Scholarships range from 25% to 75% tuition waiver, subject to maintaining 70% academic performance annually.
+4. Are lateral entry students accepted into the program?
+Yes, lateral entry is available for students who have completed a three-year diploma in a relevant field with at least 60% marks.
+5. How is student performance monitored in the department?
+The department uses continuous internal assessments, mid-semester exams, end-semester exams, lab assessments, and project reviews to monitor and evaluate student performance.
+Have a Query?
+We are here to help
+Submit a query
+0863-2344700
+Vignan team is available from
+Mon - Sat 9:00 am to 6:00 pm
+Vignan's Foundation for Science, Technology and Research
+(Deemed to
+be University), Vadlamudi, Guntur-522213
+info@vignan.ac.in
+0863-2344700 / 701
+Be The First to Know.
+Subscribe to the newsletter for all the updates
+Enter E-mail id
+Error Message
+Pay Tution Fee
+Examinations
+Internship
+Portal
+Slam book
+Outlook (Access
+Mail)
+Anti-Ragging
+Grievance Redressal
+Admission
+Apply Online
+Why Choose Us?
+Refund Policy
+Others
+Blog
+VU Today
+Vignan Online
+MHRD-NMEICT
+ARIIA
+Feedback
+NCTE
+Internal Portals
+Student Portal
+Accreditation
+IQAC
+NAAC
+DSIR
+Certified
+Copyrights © 2026 Vignan University. All rights reserved.
+DSIR Recognition
+The Department of Scientific and Industrial Research (DSIR) is a part of the Ministry of Science and Technology, which was announced through a Presidential Notification, dated January 4, 1985 (74/2/1/8 Cab.) contained in the 164th Amendment of the Government of India (Allocation of Business) Rules, 1961.The Department of Scientific and Industrial Research (DSIR) has a mandate to carry out the activities relating to indigenous technology promotion, development, utilisation and transfer
+DSIR has been decided to accord the recognition to Vignan’s foundation of Science & Research (Deemed to be University), Guntur District, Andhra Pradesh from 30 Aug 2018 to 31 Mar 2021.
+View Document
+REFUND/CANCELLATION POLICY
+Fee refund norms against cancellation of admissions:
+For cancellation of admission, the issue of refund of tuition fee to student shall be decided in the light of MHRD circular, UGC norms (UGC regulations 2016, 6.2) and University policy. The broad rules for refund of tution fee against cancellation of seat are:
+Admission fee is non-refundable, once student is provisionally admitted.
+Tuition fee paid will be refunded if the student cancel his /her admission before the commencement of class work.
+Prior to closing of admissions and after commencement of class work, tuition fee is refundable with proportionate deduction of monthly fee.
+Once admissions are closed, the entire fee collected shall be forfeited.
+PRIVACY POLICY
+The Privacy Policy governs the use of this website.
+VFSTR University is committed to protect your privacy and works towards offering you a useful, safe online experience.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given by VFSTR University, to any other institution for any reason whatsoever, without your consent.
+VFSTR University reserves the right, in its discretion, to change or modify all or any part of this Agreement at any time, effective immediately upon notice published on the site. Your continued use of the website constitutes your binding acceptance of these terms and conditions, including any changes or modifications made by Vignan University as permitted above.
+VFSTR University treats your personal information or your use of the service as private and confidential and does not check, edit or reveal it to any third party except where it believes in good faith, such action is necessary to comply with the applicable legal and regulatory processes or to protect and defend the rights of other users or to enforce the terms of service which are binding on all the users of the site.
+Except where specifically agreed upon or necessary for operational or regulatory reasons VFSTR University will not send you any unsolicited information via e-mail. The user can nevertheless unsubscribe from receipt of such e-mails by following instructions therein.
+VFSTR University may collect unnamed statistics, which do not personally identify you and reserves the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site.
+The information contents provided on this site cannot be copied, modified, uploaded, downloaded, published or republished, transmitted or otherwise distributed for commercial purposes without prior and explicit permission from the concerned authorities.
+Reproduction of any information or material provided on this website, with or without any modification, is prohibited unless, with prior permission of Vignan University and shall amount to violation of copyright and would be deemed an illegal act.
+All matters of dispute shall be dealt under the jurisdiction of Calcutta High Court
+Atal Ranking of Institutions on Innovation Achievements (ARIIA) is an initiative of Ministry of Education (MoE), Govt. of India to systematically rank all major higher educational institutions and universities in India on indicators related to “Innovation and Entrepreneurship Development” amongst students and faculties. The first edition was launched in 2019.
+The methodology designed to calculate ARIIA metrics considers all major parameters/ indicators used globally to rank education institutions for innovation output. Additionally, ARIIA also measures some parameters which are India specific considering the current scenario and status of higher education in India.
+Vignan Institute’s departments like Bio-tech, Food, Agricultural and Engineering Technologies s are part of innovation and startup ecosystem of the institute.
+Pay Tuition Fee
+Internship Portal
+Slam Book
+Outlook ( Access
+Mails)
+OTHERS
+Blogs
+MHRD- NMEICT
+internal portals
+Copyrights © 2026 VFSTR. All rights reserved.
+Privacy Policy
+Rural Awareness Work Experience Programme
+A flagship initiative is unique opportunity for the students to work with the farmers at their farms and identify various
+production, protection and marketing
+constraints by staying in the village for the period of 14 weeks.
+it develops competency in the areas of technological, managerial and communication skills among the students.
+The main components of the programme include
+Crop Production, Plant Protection, Rural Economics, Extension Programme and Research Station
+activities.
+Experiential Learning Programme
+The Vignan Institute of Agriculture and Technology (VIAT) at VFSTR introduced the
+Experiential Learning Programme (ELP)
+in 2024-25 under
+ICAR-Student READY
+for fourth-year B.Sc (Hons) Agriculture students.
+This
+24-week, 20-credit program
+enhances enterprise management skills,
+fostering job creators through hands-on learning
+in field problems, project development, and execution in the areas of
+Sweet and baby corn production, Hi-tech nursery, chrysanthemum cultivation, leafy vegetables production.
+Agro-Industrial Attachment Programme
+Agro-Industrial attachement Programme (AIP)
+6-week, 6-credit program
+enhances
+work experience, building careers through hands-on learning
+in organisations like
+Prakruthivanam Organic Farm, NRI Agritech Pvt.Ltd, Coromandel International Ltd, Sahasra Crop Science Pvt.Ltd, Kanha – Shanthivanam.
+Lara Green
+The Vignan Institute of Agriculture and Technology (VIAT) has a
+40-acre instructional farm
+designed to provide
+field-level hands-on training
+for B.Sc. (Hons) Agriculture students. The farm includes a well-established
+wetland, food forestry, a dragon fruit plot, a petal paradise plot, experimental plots, ELP modules, a vermicomposting unit, and livestock models.
+Additionally, it features a USAID-funded
+Hi-Tech Nursery
+a Tree-Based Enterprises Incubation Centre,
+under
+Trees Out Side Forest India (TOFI)
+which supply quality plant materials such as eucalyptus and casuarina while also imparting entrepreneurial skills to rural youth in Andhra Pradesh.
+The farm cultivates a variety of field crops
+, including Paddy, Maize, Sorghum, Bajra, Red Gram, and Black Gram.
+In addition, horticultural crops
+such as Mango, Banana, Papaya and Leafy Vegetables are grown, along with a diverse
+food forestry system
+consisting of 22 types of fruit crops.
+Guard crops
+are also cultivated to enhance farm sustainability.
+Future developments
+include the establishment of an
+Integrated Farming System (IFS) model
+and an Integrated Fishery and Poultry Model to provide students with a comprehensive live learning experience.
+Vision
+To evolve as a centre of high repute in Computer Science & Engineering and create computer software professionals trained on problem solving skills imbued with ethics to serve the ever evolving and emerging requirements of IT Industry and society at large.
+Mission
+Imparting quality education through well designed curriculum, innovative teaching and learning methodologies integrated with professional skill development activities to meet the challenges in the career.
+Nurture research and consultancy activities amongst students and faculty by providing State-of-art facilities and Industry-Institute Interaction.
+Developing capacity to learn new technologies and apply to solve social and industrial problems to become an entrepreneur.
+HoD's Message
+Welcome to the
+Department of Computer Science and Engineering,
+proudly accredited by
+for six years, up to 2030, along with national
+NAAC A+ accreditations.
+Our commitment to excellence drives innovation in education, research, and industry collaboration, empowering our students to emerge as leaders in the tech world. Our curriculum integrates
+problem-solving skills
+by providing hands-on practice in programming and algorithms. Students are encouraged to obtain
+globally recognized certifications
+from
+AWS, Google, and Cisco,
+validating their expertise in specialized areas like
+cloud computing
+cybersecurity,
+giving them a distinct edge in placements.
+In addition, students design and develop solutions in emerging fields such as
+AI, Cybersecurity, Data Science, Blockchain, and Quantum Computing
+as part of their coursework. They have successfully published articles in
+IEEE and Springer Conferences.
+Our students showcase their expertise and creativity through outstanding achievements in prestigious competitions like the
+Flipkart Grid Challenge, Cisco Ideathon, and Amazon WoW.
+With all these practices, we consistently achieve
+85% placements annually,
+making placement a hallmark of our program. Our students secure employment opportunities at top tech companies like
+TCS, Accenture, Infosys, Wipro,
+and more. We are actively expanding industry partnerships to offer
+internships and industry-specific certifications,
+ensuring that our graduates meet global standards and remain competitive in the job market.
+state-of-the-art lab infrastructure
+includes
+2000+ computers, GPUs
+, and a
+high-performance computing facility.
+UG, PG students, and Ph.D. Scholars collaboratively work in the
+thrust areas of computing,
+facilitating
+20-30% annual growth
+in research publications.
+Over the last five years, we have published
+250+ articles in SCI/E and Scopus-indexed journals.
+This commitment ensures that we maintain high academic standards and continuously contribute to meaningful, impactful research.
+We transform students into
+industry-ready professionals
+by focusing on
+cutting-edge programs, strategic partnerships, research excellence,
+and higher placement opportunities.
+Dr.S.V. Phani Kumar
+Professor. & HoD, CSE Dept
+Thank you
+Our team will respond within 2-3 working days.
+Thank you for your patience.
+Got It
+Query
+Enter Your Query
+Full Name
+Email
+Mobile
+Submit
+Discard
+Approximately 10-15% of students opt to pursue higher education after completing their
+undergraduate studies at university. This subset of students demonstrates a commitment to
+furthering their academic and professional development, often seeking specialised knowledge
+or advanced degrees in their chosen fields. Higher education offers opportunities for deeper
+exploration, research, and specialization, equipping individuals with the expertise and
+credentials needed to excel in their careers or pursue advanced academic pursuits. While not
+all students choose this path, those who do contribute to the advancement of knowledge and
+innovation across various disciplines, shaping the future of society through their
+dedication to continuous learning and intellectual growth.
+Vignan Foundation For Science, Research & Technology
+Visit website
+Share on
+The Department is home to a team of highly qualified and experienced faculty members dedicated to academic excellence and cutting-edge research. Our faculty actively engages in a wide range of research areas, including artificial intelligence, data science, cyber security, and software engineering. With a strong focus on innovation and hands-on learning, they mentor students to excel in both academics and industry. The faculty's commitment to advancing knowledge ensures that students are well-prepared to meet the evolving demands of the tech industry.
+Industry Academia 2024
+First Industry–Academia Interaction of the School of Agriculture and Food Technology (SAFT)
+was conducted on
+14 February 2024
+09:30 AM to 01:30 PM
+at the
+Board Room, VFSTR, Vadlamudi
+. The program aimed to strengthen collaboration between academia and industry to enhance agricultural research, innovation, skill development, and employment opportunities for students.
+The program was presided over by
+Prof. P. Nagabhushan, Vice-Chancellor, VFSTR. Dr. Ravi Ketharpal
+, Executive Director of the
+Asia Pacific Association of Agricultural Research Institutions (APAARI), Bangkok
+, and Chairman of the
+Global Forum for Agricultural Research (GFAR)
+attended as the
+Chief Guest. Sri Potluri Bhaskara Rao
+, President of the
+Andhra Pradesh Chamber of Commerce
+, graced the event as the
+Guest of Honour
+. The interaction also witnessed participation from industry representatives, faculty members, researchers, and students of the School of Agriculture and Food Technology.
+During the inaugural session, the Vice-Chancellor emphasized the importance of
+strong partnerships between universities and industries
+to address contemporary challenges in agriculture and food systems. He highlighted that collaboration can help align
+academic curriculum, research priorities, and student training with industry requirements
+, thereby improving employability and innovation. The Chief Guest, Dr. Ravi Ketharpal, stressed the need for
+transformative agricultural research, climate-resilient technologies, and knowledge exchange platforms
+that connect farmers, researchers, and industry stakeholders. He also highlighted the role of international partnerships in strengthening agricultural research systems and promoting sustainable food production.
+Industry representatives shared their perspectives on
+emerging opportunities in agri-business, seed technology, crop protection, agri-inputs, food processing, and precision agriculture
+. They emphasized the need for skilled graduates with practical exposure,
+industry-oriented training, and entrepreneurial capabilities
+. The interaction also focused on enhancing
+internship opportunities, collaborative research projects, consultancy services, technology transfer, and startup incubation
+for students and faculty.
+The discussion further highlighted the importance of
+value addition, supply chain management, and digital agriculture technologies
+in modern agricultural systems. Industry experts encouraged students to develop competencies in
+data-driven agriculture, agri-technology innovations, and sustainable farming practices
+. They also emphasized the role of universities in developing
+market-oriented agricultural technologies
+that can directly benefit farmers and agri-entrepreneurs.
+The event served as a valuable platform for exchanging ideas, strengthening professional networks, and identifying potential areas of collaboration between
+SAFT, VFSTR and industry partners
+. Participants collectively agreed on the need to establish
+regular industry–academia interactions, training programs, internships, and joint research initiatives
+to bridge the gap between theoretical education and practical industry requirements.
+Overall, the
+Industry–Academia Interaction
+successfully fostered dialogue among academic experts, industry leaders, and stakeholders, reinforcing the commitment of
+SAFT, VFSTR
+to promote
+innovation, skill development, and sustainable agricultural advancement through collaborative partnerships
+ACADEMIA- INDUSTRY FARMER PARTNERSHIP (AIFP) CONCLAVE-2025
+Academia–Industry–Farmer Partnership (AIFP) Conclave 2025
+was organized by the
+School of Agriculture and Food Technology (SAFT), Vignan’s Foundation for Science, Technology and Research (VFSTR) on 15 March 2025
+. The conclave aimed to strengthen collaboration among academia, industry stakeholders, progressive farmers, and policymakers to address contemporary challenges in agriculture and promote innovation, sustainability, and farmer welfare.
+The event was presided over by
+Prof. P. Nagabhushan, Vice-Chancellor, VFSTR, and the Chief Guest was Dr. Ch. Srinivasa Rao, Director and Vice-Chancellor of ICAR–Indian Agricultural Research Institute (IARI)
+. In his address, the Vice-Chancellor emphasized the integration of
+four pillars of modern agriculture—farmer experience, academic knowledge, industrial engineering, and governance support
+—to transform agriculture into a profitable and technology-driven sector. He highlighted the importance of emerging technologies such as
+artificial intelligence, precision farming, and data-driven decision systems
+in strengthening agricultural productivity and sustainability.
+Dean of SAFT, Prof. T. Ramesh Babu
+, presented the achievements and initiatives of the school, including research programs, international collaborations, and infrastructure development such as the
+Hi-Tech Nursery (HTN) and Tree-Based Enterprise Incubation Centre (TBEIC) established under the TOFI programme supported by USAID and MoEFCC
+. The school also maintains academic and research collaborations with several national institutes including
+ICRISAT, ICAR-IIMR, ICAR-IIRR, ICAR-IIOR, ICAR-NIRCA
+, and industry partners.
+Distinguished speakers from research institutions, industries, and farming communities highlighted critical issues such as
+climate-resilient agriculture, soil health restoration, millet promotion for nutritional security, commercialization of agriculture, and value addition through food processing
+. Experts emphasized the need to transform agriculture from a labor-intensive activity into a
+viable agri-business model
+, supported by modern technologies, mechanization, and strong market linkages. Progressive farmers shared practical experiences related to
+seed quality, soil degradation, market price disparities, and the need for improved extension services.
+The conclave also featured
+four concurrent technical sessions on Fertilizers, Pesticides, Seeds, and Food Technology
+. These sessions focused on collaborative research opportunities, curriculum enhancement aligned with industry needs, internships, faculty immersion programs, and entrepreneurship development. Discussions highlighted the importance of
+biopesticides, soil-test-based fertilizer management, high-quality seed production, precision agriculture technologies, and food processing for reducing post-harvest losses
+. Industry representatives also emphasized the need for skill-oriented training, exposure visits, and stronger industry–university linkages to prepare students for emerging opportunities in the agricultural sector.
+A significant outcome of the conclave was the strengthening of institutional partnerships, including the
+signing of a Memorandum of Understanding (MoU) between VFSTR and ICAR-Indian Institute of Oil Palm Research (IIOPR)
+to promote collaborative research, student training, and capacity building. The discussions concluded with a collective commitment to foster
+farmer-centric innovation, interdisciplinary research, agri-technology adoption, and entrepreneurship
+, ensuring that scientific advancements effectively reach farmers and contribute to sustainable agricultural development.
